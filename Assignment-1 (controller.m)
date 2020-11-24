@@ -10,6 +10,6 @@ function [ u ] = pd_controller(~, s, s_des, params)
 %e= error equation;
 %edot=derivative of the error equatoin;
 
-% u= net force equation
+% u= net acceleration equation
 
 end
